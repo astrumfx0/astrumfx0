@@ -2,6 +2,6 @@
 <br></br><br></br><br></br>
 <img width="85" src="https://komarev.com/ghpvc/?username=astrumfx0&label=cassettes&color=D5ACE3">
 <div align="center">
-  <h4><a href="https://0astrumfx0.straw.page/">strawpage</a> $\small{\textsf{ }}$ $\small{\textsf{ }}$ $\small{\textsf{ }}$ $\small{\textsf{ }}$ <a href="https://en.pronouns.page/@astrumfx">prns page</a></h4>
+  <h5><a href="https://0astrumfx0.straw.page/">strawpage</a> $\small{\textsf{ }}$ $\small{\textsf{ }}$ $\small{\textsf{ }}$ $\small{\textsf{ }}$ <a href="https://en.pronouns.page/@astrumfx">prns page</a></h5>
 </div>
 <br></br><br></br><br></br>
